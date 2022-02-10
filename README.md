@@ -11,4 +11,4 @@ There are two options to update the RGB value :
 
 With the copy button which exists on the bottom of the page user can copy the RGB value as rgb(number,number,number) format for sharing purposes.
 
-![](https://github.com/serhatyigit/ColorMixer/blob/master/Color%20Mixer.gif)
+<img src="https://github.com/serhatyigit/ColorMixer/blob/master/Color%20Mixer.gif" width="376" height="672">
