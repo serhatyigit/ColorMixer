@@ -10,3 +10,5 @@ There are two options to update the RGB value :
 2)Increase and decrease buttons : updates RGB values by increasing or decreasing by 15, these buttons also works only with 0-255 interval.
 
 With the copy button which exists on the bottom of the page user can copy the RGB value as rgb(number,number,number) format for sharing purposes.
+
+![](https://github.com/serhatyigit/ColorMixer/blob/master/Color%20Mixer.gif)
