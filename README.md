@@ -5,7 +5,7 @@ With this app user can change RGB values and see the result as a color immediate
 
 There are two options to update the RGB value :
 
-1)TextInput : you can set any value between 0-255 , the Input accepts only these interval as expected.
+1)TextInput : user can set any value between 0-255 , the Input accepts only this interval as expected.
 
 2)Increase and decrease buttons : updates RGB values by increasing or decreasing by 15, these buttons also works only with 0-255 interval.
 
